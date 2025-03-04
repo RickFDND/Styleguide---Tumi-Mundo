@@ -148,6 +148,7 @@ body {
 
 
 
+
 .filter-button {
     background-color: var(--button-color-three);
     max-width: 93px;
@@ -330,3 +331,146 @@ body {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Sidney zijn gedeelte */
+.button-menu{
+        height: 29.44rem;
+        width: 29.44rem;
+        gap: 1rem;
+        background-color: var(--menu-lay-over-kleur);
+
+        display: flex;
+
+        button{
+            height: 6.25rem;
+            width: 6.25rem;
+        }
+
+        h2{
+            color: white;
+        }
+}
+
+.iconen-menu{
+    width: 3rem;
+    fill: white;
+}
+
+.testing{
+    background-color: var(--button-color-two);
+}
+
+.lessons{
+    background-color: var(--button-color-three);
+}
+
+.home{
+    background-color: var(--button-color-one);
+}
+
+.statistics{
+    background-color: var(--button-color-four);
+}
+
+.profile{
+    background-color: var(--button-color-five);
+}
