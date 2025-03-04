@@ -458,20 +458,55 @@ body {
 
 .testing{
     background-color: var(--button-color-two);
+    transition: 0.3s;
+}
+
+.testing:hover{
+    background-color: var(--hover-button-color-two);
+    height: 7rem;
+    width: 7rem;
 }
 
 .lessons{
     background-color: var(--button-color-three);
+    transition: 0.3s;
+}
+
+.lessons:hover{
+    background-color: var(--hover-button-color-three);
+    height: 7rem;
+    width: 7rem;
 }
 
 .home{
     background-color: var(--button-color-one);
+    transition: 0.3s;
+}
+
+.home:hover{
+    background-color: var(--hover-button-color-one);
+    height: 7rem;
+    width: 7rem;
 }
 
 .statistics{
     background-color: var(--button-color-four);
+    transition: 0.3s;
+}
+
+.statistics:hover{
+    background-color: var(--hover-button-color-four);
+    height: 7rem;
+    width: 7rem;
 }
 
 .profile{
     background-color: var(--button-color-five);
+    transition: 0.3s;
+}
+
+.profile:hover{
+    background-color: var(--hover-button-color-five);
+    height: 7rem;
+    width: 7rem;
 }
