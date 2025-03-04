@@ -433,8 +433,8 @@ body {
 
 /* Sidney zijn gedeelte */
 .button-menu{
-        height: 29.44rem;
-        width: 29.44rem;
+        height: 10rem;
+        width: 37rem;
         gap: 1rem;
         background-color: var(--menu-lay-over-kleur);
 
@@ -453,7 +453,7 @@ body {
 
 .iconen-menu{
     width: 3rem;
-    fill: white;
+    filter: invert(1);
 }
 
 .testing{
