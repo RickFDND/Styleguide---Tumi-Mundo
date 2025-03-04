@@ -498,8 +498,19 @@ body {
     width: 7rem;
 }
 
+.profile{
+    background-color: var(--button-color-five);
+    transition: 0.3s;
+}
+
+.profile:hover{
+    background-color: var(--hover-button-color-five);
+    height: 7rem;
+    width: 7rem;
+}
+
 /* HIer wil ik proberen om de grafiek zelf te animeren om het interactief te maken */
-.stat-knop{
+.knop{
     text-align: center;
     width: 6.25rem;
     height: 6.25rem;
@@ -574,13 +585,62 @@ body {
     left: 2.9rem;
 }
 
-.profile{
-    background-color: var(--button-color-five);
-    transition: 0.3s;
+/* Hier komt het puzzelstukje */
+.puzzelstuk{
+    height: 6.25rem;
+    width: 6.25rem;
+
+    background-color: var(--button-color-two);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.profile:hover{
-    background-color: var(--hover-button-color-five);
-    height: 7rem;
-    width: 7rem;
+.vierkant{
+    width: 2.5rem;
+    height: 2.5rem;
+
+    background-color:white;
+
+    border-radius: 8%;
+
+    position: relative;
+    top: 0rem;
+    left: 1.4rem;
+}
+
+.cirkel-boven{
+    width: 1rem;
+    height: 1rem;
+    border-radius: 100%;
+
+    background-color: white;
+
+    position: relative;
+    top: -1.65rem;
+    left: -0.3rem;
+}
+
+.cirkel-rechts{
+    width: 1rem;
+    height: 1rem;
+    border-radius: 100%;
+
+    background-color: white;
+
+    position: relative;
+    left: 0.2rem;
+}
+
+.cirkel-onder{
+    width: 1rem;
+    height: 1rem;
+    border-radius: 100%;
+
+    background-color: var(--button-color-two);
+
+    position: relative;
+    left: -2.3rem;
+    top: 0.89rem;
 }
