@@ -82,3 +82,251 @@ body {
 /* Formulier elementen */
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.filter-button {
+    background-color: var(--button-color-three);
+    max-width: 93px;
+    height: 28px;
+    border-radius: 4px;
+    border: none;
+    padding: 4px 8px 4px 8px;
+    gap: 4px;
+    color: white;
+}
+
+.pijl-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--button-color-three);
+    width: 48px;
+    height: 32px;
+    border-radius: 8px;
+    border:none;
+    padding: 4px 12px 4px 12px;
+    gap: 10px;
+}
+
+.continue-button{
+    background-color: var(--button-color-three);
+    width: 338px;
+    height: 48px;
+    border-radius: 8px;
+    border: none;
+    padding: 12px 16px 12px 16px;
+    gap: 10px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
