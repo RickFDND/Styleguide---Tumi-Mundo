@@ -644,3 +644,34 @@ body {
     left: -2.3rem;
     top: 0.89rem;
 }
+
+/* hier komt het boek */
+.boek{
+    height: 6.25rem;
+    width: 6.25rem;
+
+    background-color: var(--button-color-three);
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kaft{
+    width: 3.125rem;
+    height: 2.5rem;
+
+    background-color: white;
+
+    position: relative;
+}
+
+.pagina-links{
+    height: 2.7rem;
+    width: 1.45rem;
+
+    background-color: white;
+    box-shadow: 0rem 0rem 0rem 0.06rem red;
+
+    border-radius: 1rem 0rem 0.8rem 0rem;
+}
